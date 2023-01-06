@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/gabriel-hahn/whatsapp-clone-javascript#readme",
   "devDependencies": {
-    "webpack": "^3.1.0",
+    "webpack": "^5.75.0",
     "webpack-dev-server": "^2.5.1"
   },
   "dependencies": {
